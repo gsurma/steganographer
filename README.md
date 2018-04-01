@@ -6,10 +6,18 @@
 Simple java script allowing hiding or revealing data in image files using Least Significant Bit algorithm.
 
 ## Example
+
+### Before
 ![](Example/sample_image.png)
+
 Original image
+<br>
+<br>
+
+### After
 
 ![](Example/sample_image_with_hidden_message.png)
+
 Image with hidden message: `Very secret message!`
 
 
