@@ -1,3 +1,5 @@
+<img src="assets/steganographer_icon_web.png" width="300">
+
 # Steganographer
 
 > Steganography is the practice of concealing a file, message, image, or video within another file, message, image, or video.
