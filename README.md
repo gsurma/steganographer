@@ -1,4 +1,4 @@
-<img src="assets/steganographer_icon_web.png" width="300">
+<center><img src="assets/steganographer_icon_web.png" width="300"></center>
 
 # Steganographer
 
