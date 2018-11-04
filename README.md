@@ -22,7 +22,7 @@ Original image
 
 ![](Example/sample_image_with_hidden_message.png)
 
-Image with hidden message: `Very secret message!`
+Image with the hidden message: `Very secret message!`
 
 
 ## How to use
