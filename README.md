@@ -38,3 +38,19 @@ Image with the hidden message: `Very secret message!`
 1. Prepare an image with hidden message
 2. Decode `java Steganographer <path_to_image_with_hidden_message>`
 3. Steganographer should output a text file with hidden message
+
+## Author
+
+**Greg (Grzegorz) Surma**
+
+[**PORTFOLIO**](https://gsurma.github.io)
+
+[**GITHUB**](https://github.com/gsurma)
+
+[**BLOG**](https://medium.com/@gsurma)
+
+<a href="https://www.paypal.com/paypalme2/grzegorzsurma115">
+  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
+</a>
+
+
